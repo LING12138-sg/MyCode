@@ -1,0 +1,61 @@
+﻿  File.cpp
+D:\c语言\数据结构课程设计\数据结构项目\File.cpp(39,34): warning C4101: “e”: 未引用的局部变量
+D:\c语言\数据结构课程设计\数据结构项目\File.cpp(46,29): warning C4101: “e”: 未引用的局部变量
+  main.cpp
+D:\c语言\数据结构课程设计\数据结构项目\MySort.h(39,30): warning C4244: “=”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(124,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(127,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(163,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(218,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(221,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(358,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(361,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(526,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(529,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(565,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(661,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(664,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(841,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(845,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(917,42): warning C4244: “参数”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(967,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\main.cpp(971,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Menu.cpp
+D:\c语言\数据结构课程设计\数据结构项目\MySort.h(39,30): warning C4244: “=”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  (编译源文件“Menu.cpp”)
+  
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(41,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(62,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(105,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(135,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(200,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(227,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\Menu.cpp(252,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  MySort.cpp
+D:\c语言\数据结构课程设计\数据结构项目\MySort.h(39,30): warning C4244: “=”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  (编译源文件“MySort.cpp”)
+  
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(18,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(18,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(67,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(67,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(125,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(125,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(186,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(186,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(248,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(248,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(284,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(284,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(319,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(319,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(435,12): warning C4101: “t”: 未引用的局部变量
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(639,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(639,16): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(662,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言\数据结构课程设计\数据结构项目\MySort.cpp(672,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  数据结构项目.vcxproj -> D:\c语言\数据结构课程设计\数据结构项目\x64\Debug\数据结构项目.exe
